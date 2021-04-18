@@ -1,4 +1,4 @@
-package EjerciciosSelenium;
+package EjerciciosSelenium.scripts;
 import java.util.concurrent.TimeUnit;
 
 import org.openqa.selenium.WebDriver;
